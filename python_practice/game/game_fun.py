@@ -42,3 +42,4 @@ fight(enemy_hp,enemy_power)
     #Alt+Enter自动导包
    #main入口函数的作用，条件成立，就会执行main下的东西
    #这个函数如果通过导包，调用得话，main下得东西别的文件不会执行
+   #clone pull
